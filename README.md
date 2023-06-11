@@ -3,7 +3,7 @@ Developed in 1973 by Fischer Black and Myron Scholes, the Black-Scholes model is
 
 The Black-Scholes formula can be expressed as follows:
 
-<p align="center"><img src="./options_formula.png" alt="options_formula" align="middle" />,</p>
+<p align="center"><img src="./options_formula.png" alt="options_formula" align="middle" /></p>
 
 Additionally, the Black-Scholes model provides important insights into the dynamics of option pricing (i.e., Option Greeks). It introduces the concept of delta, which measures the sensitivity of an option's price to changes in the price of the underlying asset, and gamma, which measures the rate of change of delta with respect to changes in the price of the underlying asset. The model also provides formulas for calculating other option related measures such as vega (sensitivity to changes in volatility), theta (time decay), and rho (sensitivity to changes in the risk-free rate).
 
